@@ -1,0 +1,92 @@
+/* violet */
+.text-violet {
+  color: $violet !important;
+}
+.bg-violet {
+  background-color: $violet !important;
+  width: fit-content;
+}
+.bd-violet {
+  border: 2px solid $violet !important;
+}
+.btn-violet {
+  color: $black;
+  background-color: $violet;
+  border-color: $violet;
+  &:hover {
+    color: $white;
+    background-color: $violet-hover;
+    border-color: $violet-hover;
+  }
+}
+.btn-outline-violet {
+  color: $violet;
+  border-color: $violet;
+  &:hover {
+    color: $white;
+    background-color: $violet-hover;
+    border-color: $violet-hover;
+  }
+}
+
+/* light-violet*/
+.text-light-violet {
+  color: $light-violet !important;
+}
+.bg-light-violet {
+  background-color: $light-violet !important;
+  width: fit-content;
+}
+.bd-light-violet {
+  border: 2px solid $light-violet !important;
+}
+.btn-light-violet {
+  color: $black;
+  background-color: $light-violet;
+  border-color: $light-violet;
+  &:hover {
+    color: $white;
+    background-color: $light-violet-hover;
+    border-color: $light-violet-hover;
+  }
+}
+.btn-outline-light-violet {
+  color: $light-violet;
+  border-color: $light-violet;
+  &:hover {
+    color: $white;
+    background-color: $light-violet-hover;
+    border-color: $light-violet-hover;
+  }
+}
+
+/* dark-violet*/
+.text-dark-violet {
+  color: $dark-violet !important;
+}
+.bg-dark-violet {
+  background-color: $dark-violet !important;
+  width: fit-content;
+}
+.bd-dark-violet {
+  border: 2px solid $dark-violet !important;
+}
+.btn-dark-violet {
+  color: $black;
+  background-color: $dark-violet;
+  border-color: $dark-violet;
+  &:hover {
+    color: $white;
+    background-color: $dark-violet-hover;
+    border-color: $dark-violet-hover;
+  }
+}
+.btn-outline-dark-violet {
+  color: $dark-violet;
+  border-color: $dark-violet;
+  &:hover {
+    color: $white;
+    background-color: $dark-violet-hover;
+    border-color: $dark-violet-hover;
+  }
+}

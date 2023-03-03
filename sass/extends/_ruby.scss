@@ -1,0 +1,92 @@
+/* red */
+.text-red {
+  color: $red !important;
+}
+.bg-red {
+  background-color: $red !important;
+  width: fit-content;
+}
+.bd-red {
+  border: 2px solid $red !important;
+}
+.btn-red {
+  color: $black;
+  background-color: $red;
+  border-color: $red;
+  &:hover {
+    color: $white;
+    background-color: $red-hover;
+    border-color: $red-hover;
+  }
+}
+.btn-outline-red {
+  color: $red;
+  border-color: $red;
+  &:hover {
+    color: $white;
+    background-color: $red-hover;
+    border-color: $red-hover;
+  }
+}
+
+/* light-red*/
+.text-light-red {
+  color: $light-red !important;
+}
+.bg-light-red {
+  background-color: $light-red !important;
+  width: fit-content;
+}
+.bd-light-red {
+  border: 2px solid $light-red !important;
+}
+.btn-light-red {
+  color: $black;
+  background-color: $light-red;
+  border-color: $light-red;
+  &:hover {
+    color: $white;
+    background-color: $light-red-hover;
+    border-color: $light-red-hover;
+  }
+}
+.btn-outline-light-red {
+  color: $light-red;
+  border-color: $light-red;
+  &:hover {
+    color: $white;
+    background-color: $light-red-hover;
+    border-color: $light-red-hover;
+  }
+}
+
+/* dark-red*/
+.text-dark-red {
+  color: $dark-red !important;
+}
+.bg-dark-red {
+  background-color: $dark-red !important;
+  width: fit-content;
+}
+.bd-dark-red {
+  border: 2px solid $dark-red !important;
+}
+.btn-dark-red {
+  color: $black;
+  background-color: $dark-red;
+  border-color: $dark-red;
+  &:hover {
+    color: $white;
+    background-color: $dark-red-hover;
+    border-color: $dark-red-hover;
+  }
+}
+.btn-outline-dark-red {
+  color: $dark-red;
+  border-color: $dark-red;
+  &:hover {
+    color: $white;
+    background-color: $dark-red-hover;
+    border-color: $dark-red-hover;
+  }
+}

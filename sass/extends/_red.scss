@@ -1,0 +1,92 @@
+/* ruby */
+.text-ruby {
+  color: $ruby !important;
+}
+.bg-ruby {
+  background-color: $ruby !important;
+  width: fit-content;
+}
+.bd-ruby {
+  border: 2px solid $ruby !important;
+}
+.btn-ruby {
+  color: $black;
+  background-color: $ruby;
+  border-color: $ruby;
+  &:hover {
+    color: $white;
+    background-color: $ruby-hover;
+    border-color: $ruby-hover;
+  }
+}
+.btn-outline-ruby {
+  color: $ruby;
+  border-color: $ruby;
+  &:hover {
+    color: $white;
+    background-color: $ruby-hover;
+    border-color: $ruby-hover;
+  }
+}
+
+/* light-ruby*/
+.text-light-ruby {
+  color: $light-ruby !important;
+}
+.bg-light-ruby {
+  background-color: $light-ruby !important;
+  width: fit-content;
+}
+.bd-light-ruby {
+  border: 2px solid $light-ruby !important;
+}
+.btn-light-ruby {
+  color: $black;
+  background-color: $light-ruby;
+  border-color: $light-ruby;
+  &:hover {
+    color: $white;
+    background-color: $light-ruby-hover;
+    border-color: $light-ruby-hover;
+  }
+}
+.btn-outline-light-ruby {
+  color: $light-ruby;
+  border-color: $light-ruby;
+  &:hover {
+    color: $white;
+    background-color: $light-ruby-hover;
+    border-color: $light-ruby-hover;
+  }
+}
+
+/* dark-ruby*/
+.text-dark-ruby {
+  color: $dark-ruby !important;
+}
+.bg-dark-ruby {
+  background-color: $dark-ruby !important;
+  width: fit-content;
+}
+.bd-dark-ruby {
+  border: 2px solid $dark-ruby !important;
+}
+.btn-dark-ruby {
+  color: $black;
+  background-color: $dark-ruby;
+  border-color: $dark-ruby;
+  &:hover {
+    color: $white;
+    background-color: $dark-ruby-hover;
+    border-color: $dark-ruby-hover;
+  }
+}
+.btn-outline-dark-ruby {
+  color: $dark-ruby;
+  border-color: $dark-ruby;
+  &:hover {
+    color: $white;
+    background-color: $dark-ruby-hover;
+    border-color: $dark-ruby-hover;
+  }
+}

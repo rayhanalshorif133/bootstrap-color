@@ -1,0 +1,92 @@
+/* yellow */
+.text-yellow {
+  color: $yellow !important;
+}
+.bg-yellow {
+  background-color: $yellow !important;
+  width: fit-content;
+}
+.bd-yellow {
+  border: 2px solid $yellow !important;
+}
+.btn-yellow {
+  color: $black;
+  background-color: $yellow;
+  border-color: $yellow;
+  &:hover {
+    color: $black;
+    background-color: $yellow-hover;
+    border-color: $yellow-hover;
+  }
+}
+.btn-outline-yellow {
+  color: $yellow;
+  border-color: $yellow;
+  &:hover {
+    color: $black;
+    background-color: $yellow-hover;
+    border-color: $yellow-hover;
+  }
+}
+
+/* light-yellow*/
+.text-light-yellow {
+  color: $light-yellow !important;
+}
+.bg-light-yellow {
+  background-color: $light-yellow !important;
+  width: fit-content;
+}
+.bd-light-yellow {
+  border: 2px solid $light-yellow !important;
+}
+.btn-light-yellow {
+  color: $black;
+  background-color: $light-yellow;
+  border-color: $light-yellow;
+  &:hover {
+    color: $black;
+    background-color: $light-yellow-hover;
+    border-color: $light-yellow-hover;
+  }
+}
+.btn-outline-light-yellow {
+  color: $light-yellow;
+  border-color: $light-yellow;
+  &:hover {
+    color: $black;
+    background-color: $light-yellow-hover;
+    border-color: $light-yellow-hover;
+  }
+}
+
+/* dark-yellow*/
+.text-dark-yellow {
+  color: $dark-yellow !important;
+}
+.bg-dark-yellow {
+  background-color: $dark-yellow !important;
+  width: fit-content;
+}
+.bd-dark-yellow {
+  border: 2px solid $dark-yellow !important;
+}
+.btn-dark-yellow {
+  color: $black;
+  background-color: $dark-yellow;
+  border-color: $dark-yellow;
+  &:hover {
+    color: $black;
+    background-color: $dark-yellow-hover;
+    border-color: $dark-yellow-hover;
+  }
+}
+.btn-outline-dark-yellow {
+  color: $dark-yellow;
+  border-color: $dark-yellow;
+  &:hover {
+    color: $black;
+    background-color: $dark-yellow-hover;
+    border-color: $dark-yellow-hover;
+  }
+}

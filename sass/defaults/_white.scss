@@ -1,0 +1,90 @@
+/* white */
+.text-white {
+  color: $white !important;
+}
+.bg-white {
+  background-color: $white !important;
+  width: fit-content;
+}
+.bd-white {
+  border: 2px solid $white !important;
+}
+.btn-white {
+  color: $black;
+  background-color: $white;
+  border-color: $white;
+  &:hover {
+    color: $black;
+    background-color: $whiteHover;
+    border-color: $whiteHover;
+  }
+}
+.btn-outline-white {
+  color: $white;
+  border-color: $white;
+  &:hover {
+    color: $black;
+    background-color: $whiteHover;
+    border-color: $whiteHover;
+  }
+}
+/* light-white */
+.text-light-white {
+  color: $white-light !important;
+}
+.bg-light-white {
+  background-color: $white-light !important;
+  width: fit-content;
+}
+.bd-light-white {
+  border: 2px solid $white-light !important;
+}
+.btn-light-white {
+  color: $black;
+  background-color: $white-light;
+  border-color: $white-light;
+  &:hover {
+    color: $black;
+    background-color: $whiteLightHover;
+    border-color: $whiteLightHover;
+  }
+}
+.btn-outline-light-white {
+  color: $white-light;
+  border-color: $white-light;
+  &:hover {
+    color: $black;
+    background-color: $whiteLightHover;
+    border-color: $whiteLightHover;
+  }
+}
+/* dark-white */
+.text-dark-white {
+  color: $white-dark !important;
+}
+.bg-dark-white {
+  background-color: $white-dark !important;
+  width: fit-content;
+}
+.bd-dark-white {
+  border: 2px solid $white-dark !important;
+}
+.btn-dark-white {
+  color: $black;
+  background-color: $white-dark;
+  border-color: $white-dark;
+  &:hover {
+    color: $black;
+    background-color: $whiteDarkHover;
+    border-color: $whiteDarkHover;
+  }
+}
+.btn-outline-dark-white {
+  color: $white-dark;
+  border-color: $white-dark;
+  &:hover {
+    color: $black;
+    background-color: $whiteDarkHover;
+    border-color: $whiteDarkHover;
+  }
+}

@@ -1,0 +1,93 @@
+/* primary  */
+.text-primary {
+  color: $primary !important;
+}
+.bg-primary {
+  background-color: $primary !important;
+  width: fit-content;
+}
+.bd-primary {
+  border: 2px solid $primary !important;
+}
+.btn-primary {
+  color: $white;
+  background-color: $primary;
+  border-color: $primary;
+  &:hover {
+    color: $white;
+    background-color: $primaryHover;
+    border-color: $primaryHover;
+  }
+}
+
+.btn-outline-primary {
+  color: $primary;
+  border-color: $primary;
+  &:hover {
+    color: $white;
+    background-color: $primaryHover;
+    border-color: $primaryHover;
+  }
+}
+
+/* light-primary */
+.text-light-primary {
+  color: $primary-light !important;
+}
+.bg-light-primary {
+  background-color: $primary-light !important;
+  width: fit-content;
+}
+.bd-light-primary {
+  border: 2px solid $primary-light !important;
+}
+.btn-light-primary {
+  color: #ffffff;
+  background-color: $primary-light;
+  border-color: $primary-light;
+  &:hover {
+    color: $white;
+    background-color: $primaryLightHover;
+    border-color: $primaryLightHover;
+  }
+}
+.btn-outline-light-primary {
+  color: $primary-light;
+  border-color: $primary-light;
+  &:hover {
+    color: $white;
+    background-color: $primaryLightHover;
+    border-color: $primaryLightHover;
+  }
+}
+/* dark-primary */
+.text-dark-primary {
+  color: $primary-dark !important;
+}
+.bg-dark-primary {
+  background-color: $primary-dark !important;
+  width: fit-content;
+}
+.bd-dark-primary {
+  border: 2px solid $primary-dark !important;
+}
+.btn-dark-primary {
+  color: $white;
+  background-color: $primary-dark;
+  border-color: $primary-dark;
+  &:hover {
+    color: $white;
+    background-color: $primaryDarkHover;
+    border-color: $primaryDarkHover;
+  }
+}
+.btn-outline-dark-primary {
+  color: $primary-dark;
+  border-color: $primary-dark;
+  &:hover {
+    color: $white;
+    background-color: $primaryDarkHover;
+    border-color: $primaryDarkHover;
+  }
+}
+/* end: primary */

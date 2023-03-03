@@ -1,0 +1,90 @@
+/* danger*/
+.text-danger {
+  color: $danger !important;
+}
+.bg-danger {
+  background-color: $danger !important;
+  width: fit-content;
+}
+.bd-danger {
+  border: 2px solid $danger !important;
+}
+.btn-danger {
+  color: $black;
+  background-color: $danger;
+  border-color: $danger;
+  &:hover {
+    color: $dark;
+    background-color: $dangerHover;
+    border-color: $dangerHover;
+  }
+}
+.btn-outline-danger {
+  color: $danger;
+  border-color: $danger;
+  &:hover {
+    color: $black;
+    background-color: $dangerHover;
+    border-color: $dangerHover;
+  }
+}
+/* light-danger*/
+.text-light-danger {
+  color: $light-danger !important;
+}
+.bg-light-danger {
+  background-color: $light-danger !important;
+  width: fit-content;
+}
+.bd-light-danger {
+  border: 2px solid $light-danger !important;
+}
+.btn-light-danger {
+  color: $black;
+  background-color: $light-danger;
+  border-color: $light-danger;
+  &:hover {
+    color: $dark;
+    background-color: $lightDangerHover;
+    border-color: $lightDangerHover;
+  }
+}
+.btn-outline-light-danger {
+  color: $light-danger;
+  border-color: $light-danger;
+  &:hover {
+    color: $black;
+    background-color: $lightDangerHover;
+    border-color: $lightDangerHover;
+  }
+}
+/* dark-danger*/
+.text-dark-danger {
+  color: $dark-danger !important;
+}
+.bg-dark-danger {
+  background-color: $dark-danger !important;
+  width: fit-content;
+}
+.bd-dark-danger {
+  border: 2px solid $dark-danger !important;
+}
+.btn-dark-danger {
+  color: $white;
+  background-color: $dark-danger;
+  border-color: $dark-danger;
+  &:hover {
+    color: $white;
+    background-color: $darkDangerHover;
+    border-color: $darkDangerHover;
+  }
+}
+.btn-outline-dark-danger {
+  color: $dark-danger;
+  border-color: $dark-danger;
+  &:hover {
+    color: $white;
+    background-color: $darkDangerHover;
+    border-color: $darkDangerHover;
+  }
+}

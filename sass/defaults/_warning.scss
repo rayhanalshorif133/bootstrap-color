@@ -1,0 +1,90 @@
+/* warning*/
+.text-warning {
+  color: $warning !important;
+}
+.bg-warning {
+  background-color: $warning !important;
+  width: fit-content;
+}
+.bd-warning {
+  border: 2px solid $warning !important;
+}
+.btn-warning {
+  color: $black;
+  background-color: $warning;
+  border-color: $warning;
+  &:hover {
+    color: $dark;
+    background-color: $warningHover;
+    border-color: $warningHover;
+  }
+}
+.btn-outline-warning {
+  color: $warning;
+  border-color: $warning;
+  &:hover {
+    color: $black;
+    background-color: $warningHover;
+    border-color: $warningHover;
+  }
+}
+/* light-warning*/
+.text-light-warning {
+  color: $light-warning !important;
+}
+.bg-light-warning {
+  background-color: $light-warning !important;
+  width: fit-content;
+}
+.bd-light-warning {
+  border: 2px solid $light-warning !important;
+}
+.btn-light-warning {
+  color: $black;
+  background-color: $light-warning;
+  border-color: $light-warning;
+  &:hover {
+    color: $dark;
+    background-color: $lightWarningHover;
+    border-color: $lightWarningHover;
+  }
+}
+.btn-outline-light-warning {
+  color: $light-warning;
+  border-color: $light-warning;
+  &:hover {
+    color: $black;
+    background-color: $lightWarningHover;
+    border-color: $lightWarningHover;
+  }
+}
+/* dark-warning*/
+.text-dark-warning {
+  color: $dark-warning !important;
+}
+.bg-dark-warning {
+  background-color: $dark-warning !important;
+  width: fit-content;
+}
+.bd-dark-warning {
+  border: 2px solid $dark-warning !important;
+}
+.btn-dark-warning {
+  color: $white;
+  background-color: $dark-warning;
+  border-color: $dark-warning;
+  &:hover {
+    color: $white;
+    background-color: $darkWarningHover;
+    border-color: $darkWarningHover;
+  }
+}
+.btn-outline-dark-warning {
+  color: $dark-warning;
+  border-color: $dark-warning;
+  &:hover {
+    color: $white;
+    background-color: $darkWarningHover;
+    border-color: $darkWarningHover;
+  }
+}

@@ -1,0 +1,92 @@
+/* blue */
+.text-blue {
+  color: $blue !important;
+}
+.bg-blue {
+  background-color: $blue !important;
+  width: fit-content;
+}
+.bd-blue {
+  border: 2px solid $blue !important;
+}
+.btn-blue {
+  color: $black;
+  background-color: $blue;
+  border-color: $blue;
+  &:hover {
+    color: $white;
+    background-color: $blue-hover;
+    border-color: $blue-hover;
+  }
+}
+.btn-outline-blue {
+  color: $blue;
+  border-color: $blue;
+  &:hover {
+    color: $white;
+    background-color: $blue-hover;
+    border-color: $blue-hover;
+  }
+}
+
+/* light-blue*/
+.text-light-blue {
+  color: $light-blue !important;
+}
+.bg-light-blue {
+  background-color: $light-blue !important;
+  width: fit-content;
+}
+.bd-light-blue {
+  border: 2px solid $light-blue !important;
+}
+.btn-light-blue {
+  color: $black;
+  background-color: $light-blue;
+  border-color: $light-blue;
+  &:hover {
+    color: $white;
+    background-color: $light-blue-hover;
+    border-color: $light-blue-hover;
+  }
+}
+.btn-outline-light-blue {
+  color: $light-blue;
+  border-color: $light-blue;
+  &:hover {
+    color: $white;
+    background-color: $light-blue-hover;
+    border-color: $light-blue-hover;
+  }
+}
+
+/* dark-blue*/
+.text-dark-blue {
+  color: $dark-blue !important;
+}
+.bg-dark-blue {
+  background-color: $dark-blue !important;
+  width: fit-content;
+}
+.bd-dark-blue {
+  border: 2px solid $dark-blue !important;
+}
+.btn-dark-blue {
+  color: $black;
+  background-color: $dark-blue;
+  border-color: $dark-blue;
+  &:hover {
+    color: $white;
+    background-color: $dark-blue-hover;
+    border-color: $dark-blue-hover;
+  }
+}
+.btn-outline-dark-blue {
+  color: $dark-blue;
+  border-color: $dark-blue;
+  &:hover {
+    color: $white;
+    background-color: $dark-blue-hover;
+    border-color: $dark-blue-hover;
+  }
+}

@@ -1,0 +1,92 @@
+/* orange */
+.text-orange {
+  color: $orange !important;
+}
+.bg-orange {
+  background-color: $orange !important;
+  width: fit-content;
+}
+.bd-orange {
+  border: 2px solid $orange !important;
+}
+.btn-orange {
+  color: $black;
+  background-color: $orange;
+  border-color: $orange;
+  &:hover {
+    color: $white;
+    background-color: $orange-hover;
+    border-color: $orange-hover;
+  }
+}
+.btn-outline-orange {
+  color: $orange;
+  border-color: $orange;
+  &:hover {
+    color: $white;
+    background-color: $orange-hover;
+    border-color: $orange-hover;
+  }
+}
+
+/* light-orange*/
+.text-light-orange {
+  color: $light-orange !important;
+}
+.bg-light-orange {
+  background-color: $light-orange !important;
+  width: fit-content;
+}
+.bd-light-orange {
+  border: 2px solid $light-orange !important;
+}
+.btn-light-orange {
+  color: $black;
+  background-color: $light-orange;
+  border-color: $light-orange;
+  &:hover {
+    color: $white;
+    background-color: $light-orange-hover;
+    border-color: $light-orange-hover;
+  }
+}
+.btn-outline-light-orange {
+  color: $light-orange;
+  border-color: $light-orange;
+  &:hover {
+    color: $white;
+    background-color: $light-orange-hover;
+    border-color: $light-orange-hover;
+  }
+}
+
+/* dark-orange*/
+.text-dark-orange {
+  color: $dark-orange !important;
+}
+.bg-dark-orange {
+  background-color: $dark-orange !important;
+  width: fit-content;
+}
+.bd-dark-orange {
+  border: 2px solid $dark-orange !important;
+}
+.btn-dark-orange {
+  color: $black;
+  background-color: $dark-orange;
+  border-color: $dark-orange;
+  &:hover {
+    color: $white;
+    background-color: $dark-orange-hover;
+    border-color: $dark-orange-hover;
+  }
+}
+.btn-outline-dark-orange {
+  color: $dark-orange;
+  border-color: $dark-orange;
+  &:hover {
+    color: $white;
+    background-color: $dark-orange-hover;
+    border-color: $dark-orange-hover;
+  }
+}

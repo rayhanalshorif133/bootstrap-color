@@ -1,0 +1,90 @@
+/* muted */
+.text-muted {
+  color: $muted !important;
+}
+.bg-muted {
+  background-color: $muted !important;
+  width: fit-content;
+}
+.bd-muted {
+  border: 2px solid $muted !important;
+}
+.btn-muted {
+  color: $black;
+  background-color: $muted;
+  border-color: $muted;
+  &:hover {
+    color: $black;
+    background-color: $mutedHover;
+    border-color: $mutedHover;
+  }
+}
+.btn-outline-muted {
+  color: $muted;
+  border-color: $muted;
+  &:hover {
+    color: $black;
+    background-color: $mutedHover;
+    border-color: $mutedHover;
+  }
+}
+// light muted
+.text-light-muted {
+  color: $muted-light !important;
+}
+.bg-light-muted {
+  background-color: $muted-light !important;
+  width: fit-content;
+}
+.bd-light-muted {
+  border: 2px solid $muted-light !important;
+}
+.btn-light-muted {
+  color: $black;
+  background-color: $muted-light;
+  border-color: $muted-light;
+  &:hover {
+    color: $black;
+    background-color: $mutedLightHover;
+    border-color: $mutedLightHover;
+  }
+}
+.btn-outline-light-muted {
+  color: $muted-light;
+  border-color: $muted-light;
+  &:hover {
+    color: $black;
+    background-color: $mutedLightHover;
+    border-color: $mutedLightHover;
+  }
+}
+// dark-muted
+.text-dark-muted {
+  color: $muted-dark !important;
+}
+.bg-dark-muted {
+  background-color: $muted-dark !important;
+  width: fit-content;
+}
+.bd-dark-muted {
+  border: 2px solid $muted-dark !important;
+}
+.btn-dark-muted {
+  color: $black;
+  background-color: $muted-dark;
+  border-color: $muted-dark;
+  &:hover {
+    color: $black;
+    background-color: $mutedDarkHover;
+    border-color: $mutedDarkHover;
+  }
+}
+.btn-outline-dark-muted {
+  color: $muted-dark;
+  border-color: $muted-dark;
+  &:hover {
+    color: $black;
+    background-color: $mutedDarkHover;
+    border-color: $mutedDarkHover;
+  }
+}

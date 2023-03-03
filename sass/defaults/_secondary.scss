@@ -1,0 +1,91 @@
+/* secondary  */
+.text-secondary {
+  color: $secondary !important;
+}
+.bg-secondary {
+  background-color: $secondary !important;
+  width: fit-content;
+}
+.bd-secondary {
+  border: 2px solid $secondary !important;
+}
+.btn-secondary {
+  color: $white;
+  background-color: $secondary;
+  border-color: $secondary;
+  &:hover {
+    color: $white;
+    background-color: $secondaryHover;
+    border-color: $secondaryHover;
+  }
+}
+.btn-outline-secondary {
+  color: $secondary;
+  border-color: $secondary;
+  &:hover {
+    color: $white;
+    background-color: $secondaryHover;
+    border-color: $secondaryHover;
+  }
+}
+
+/* light-secondary */
+.text-light-secondary {
+  color: $secondary-light !important;
+}
+.bg-light-secondary {
+  background-color: $secondary-light !important;
+  width: fit-content;
+}
+.bd-light-secondary {
+  border: 2px solid $secondary-light !important;
+}
+.btn-light-secondary {
+  color: $white;
+  background-color: $secondary-light;
+  border-color: $secondary-light;
+  &:hover {
+    color: $white;
+    background-color: $secondaryLightHover;
+    border-color: $secondaryLightHover;
+  }
+}
+.btn-outline-light-secondary {
+  color: $secondary-light;
+  border-color: $secondary-light;
+  &:hover {
+    color: $white;
+    background-color: $secondaryLightHover;
+    border-color: $secondaryLightHover;
+  }
+}
+// /* dark-secondary */
+.text-dark-secondary {
+  color: $secondary-dark !important;
+}
+.bg-dark-secondary {
+  background-color: $secondary-dark !important;
+  width: fit-content;
+}
+.bd-dark-secondary {
+  border: 2px solid $secondary-dark !important;
+}
+.btn-dark-secondary {
+  color: $white;
+  background-color: $secondary-dark;
+  border-color: $secondary-dark;
+  &:hover {
+    color: $white;
+    background-color: $secondaryDarkHover;
+    border-color: $secondaryDarkHover;
+  }
+}
+.btn-outline-dark-secondary {
+  color: $secondary-dark;
+  border-color: $secondary-dark;
+  &:hover {
+    color: $white;
+    background-color: $secondaryDarkHover;
+    border-color: $secondaryDarkHover;
+  }
+}
