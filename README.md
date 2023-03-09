@@ -216,7 +216,7 @@ We are providing many other classes as color property.
 
 ## Extended Colors
 
-- ![#e83e8c](https://via.placeholder.com/15/e83e8c/e83e8c.png) `pink` 
+- ![#E0115F](https://via.placeholder.com/15/e83e8c/e83e8c.png) `ruby` ![#e83e8c](https://via.placeholder.com/15/e83e8c/e83e8c.png) `pink` ![#C44B8A](https://via.placeholder.com/15/e83e8c/e83e8c.png) `mulberry` 
 - 
 - 
 - 
