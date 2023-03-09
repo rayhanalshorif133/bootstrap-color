@@ -217,6 +217,11 @@ We are providing many other classes as color property.
 ## Extended Colors
 
 - ![#E0115F](https://via.placeholder.com/15/E0115F/E0115F.png) `ruby` ![#e83e8c](https://via.placeholder.com/15/e83e8c/e83e8c.png) `pink` ![#C44B8A](https://via.placeholder.com/15/C44B8A/C44B8A.png) `mulberry` 
+- ![#F81895](https://via.placeholder.com/15/F81895/F81895.png) `hot` 
+- ![#F74A8A](https://via.placeholder.com/15/F74A8A/F74A8A.png) `french` 
+- ![#F81895](https://via.placeholder.com/15/F81895/F81895.png) `hot` 
+- ![#F81895](https://via.placeholder.com/15/F81895/F81895.png) `hot` 
+- ![#F81895](https://via.placeholder.com/15/F81895/F81895.png) `hot` 
 - 
 - 
 - 
