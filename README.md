@@ -1,4 +1,4 @@
-<p align="center">
+<!-- <p align="center">
   <a href="https://getbootstrap.com/">
     <img
       src="./assets/logo/bootstrap+color.png"
@@ -208,7 +208,7 @@ We are providing many other classes as color property.
 
 ```html
 <span class="btn-outline-dark-primary"> btn-outline-dark-primary </span>
-```
+``` -->
 
 ## Bootstrap 5 Default Colors
 
@@ -216,9 +216,7 @@ We are providing many other classes as color property.
 
 ## Extended Colors
 
-- ![#E0115F](https://via.placeholder.com/15/E0115F/E0115F.png) `ruby` - ![#e83e8c](https://via.placeholder.com/15/e83e8c/e83e8c.png) `pink` - ![#C44B8A](https://via.placeholder.com/15/C44B8A/C44B8A.png) `mulberry` - ![#F81895](https://via.placeholder.com/15/F81895/F81895.png) `hot` - ![#F74A8A](https://via.placeholder.com/15/F74A8A/F74A8A.png) `french` - ![#DC3062](https://via.placeholder.com/15/DC3062/DC3062.png) `cerise` - ![#EC5578](https://via.placeholder.com/15/EC5578/EC5578.png) `punch` - ![#FF67CC](https://via.placeholder.com/15/FF67CC/FF67CC.png) `rose` 
-- ![#FCB9C7](https://via.placeholder.com/15/FCB9C7/FCB9C7.png) `lemonade` - ![#FE008F](https://via.placeholder.com/15/FE008F/FE008F.png) `magenta` - ![#DF6FA1](https://via.placeholder.com/15/DF6FA1/DF6FA1.png) `thulian` - ![#FF00FE](https://via.placeholder.com/15/FF00FE/FF00FE.png) `fuchsia` - ![#FB6080](https://via.placeholder.com/15/FB6080/FB6080.png) `brick` - ![#FF70FE](https://via.placeholder.com/15/FF70FE/FF70FE.png) `ultra` - ![#F19CBB](https://via.placeholder.com/15/F19CBB/F19CBB.png) `amaranth` - ![#FE5BAC](https://via.placeholder.com/15/FE5BAC/FE5BAC.png) `bubble-gum` - ![#FCA3B7](https://via.placeholder.com/15/FCA3B7/FCA3B7.png) `flamingo` - ![#FFA5C9](https://via.placeholder.com/15/FFA5C9/FFA5C9.png) `carnation` - ![#F986C2](https://via.placeholder.com/15/F986C2/F986C2.png) `taffy` - ![#FE6AB4](https://via.placeholder.com/15/FE6AB4/FE6AB4.png) `creamy` 
-- ![#F9D2E5](https://via.placeholder.com/15/F9D2E5/F9D2E5.png) `lavender` 
+- ![#E0115F](https://via.placeholder.com/15/E0115F/E0115F.png) `ruby` - ![#e83e8c](https://via.placeholder.com/15/e83e8c/e83e8c.png) `pink` - ![#C44B8A](https://via.placeholder.com/15/C44B8A/C44B8A.png) `mulberry` - ![#F81895](https://via.placeholder.com/15/F81895/F81895.png) `hot` - ![#F74A8A](https://via.placeholder.com/15/F74A8A/F74A8A.png) `french` - ![#DC3062](https://via.placeholder.com/15/DC3062/DC3062.png) `cerise` - ![#EC5578](https://via.placeholder.com/15/EC5578/EC5578.png) `punch` - ![#FF67CC](https://via.placeholder.com/15/FF67CC/FF67CC.png) `rose` - ![#FCB9C7](https://via.placeholder.com/15/FCB9C7/FCB9C7.png) `lemonade` - ![#FE008F](https://via.placeholder.com/15/FE008F/FE008F.png) `magenta` - ![#DF6FA1](https://via.placeholder.com/15/DF6FA1/DF6FA1.png) `thulian` - ![#FF00FE](https://via.placeholder.com/15/FF00FE/FF00FE.png) `fuchsia` - ![#FB6080](https://via.placeholder.com/15/FB6080/FB6080.png) `brick` - ![#FF70FE](https://via.placeholder.com/15/FF70FE/FF70FE.png) `ultra` - ![#F19CBB](https://via.placeholder.com/15/F19CBB/F19CBB.png) `amaranth` - ![#FE5BAC](https://via.placeholder.com/15/FE5BAC/FE5BAC.png) `bubble-gum` - ![#FCA3B7](https://via.placeholder.com/15/FCA3B7/FCA3B7.png) `flamingo` - ![#FFA5C9](https://via.placeholder.com/15/FFA5C9/FFA5C9.png) `carnation` - ![#F986C2](https://via.placeholder.com/15/F986C2/F986C2.png) `taffy` - ![#FE6AB4](https://via.placeholder.com/15/FE6AB4/FE6AB4.png) `creamy` - ![#F9D2E5](https://via.placeholder.com/15/F9D2E5/F9D2E5.png) `lavender` 
 
 ## Others Colors
 
