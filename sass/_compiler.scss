@@ -1,5 +1,5 @@
 // loop through the array and create a class for each color
-@each $name, $color in $colors {
+@each $name, $color in $defaultColors {
   .text-#{$name} {
     color: $color !important;
   }
@@ -24,6 +24,46 @@
     color: $color;
     border-color: $color;
   }
+  .btn-outline-#{$name}:hover {
+    color: #ffffff;
+    background-color: darken($color, 10%);
+    border-color: darken($color, 10%);
+  }
+
+}
+
+// loop through the array and create a class for each color
+@each $name,$color in $extends_colors {
+  .text-#{$name} {
+    color: $color !important;
+  }
+
+  .bg-#{$name} {
+    background-color: $color !important;
+    width: fit-content;
+  }
+
+  .bd-#{$name} {
+    border: 2px solid $color !important;
+  }
+
+  .btn-#{$name} {
+    color: #000;
+    background-color: $color;
+    border-color: $color;
+  }
+
+  .btn-#{$name}:hover {
+    color: #ffffff;
+    background-color: darken($color, 10%);
+    border-color: darken($color, 10%);
+  }
+
+  .btn-outline-#{$name} {
+    color: $color;
+    border-color: $color;
+  }
+
   .btn-outline-#{$name}:hover {
     color: #ffffff;
     background-color: darken($color, 10%);
