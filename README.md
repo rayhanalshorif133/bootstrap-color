@@ -49,7 +49,7 @@
   - Step 2: Link this CDN (bootstrap.color.min.css)
   ```html
   <link
-    href="https://cdn.jsdelivr.net/gh/rayhan133/bootstrap-color/dist/css@1.0.0/bootstrap.color.min.css"
+    href="https://cdn.jsdelivr.net/gh/rayhanalshorif133/bootstrap-color/dist/css@1.0.0/bootstrap.color.min.css"
     rel="stylesheet"
   />
   ```
