@@ -1,4 +1,4 @@
-<!-- <p align="center">
+<p align="center">
   <a href="https://getbootstrap.com/">
     <img
       src="./assets/logo/bootstrap+color.png"
@@ -208,7 +208,7 @@ We are providing many other classes as color property.
 
 ```html
 <span class="btn-outline-dark-primary"> btn-outline-dark-primary </span>
-``` -->
+``` 
 
 ## Bootstrap 5 Default Colors
 
