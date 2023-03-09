@@ -2308,3 +2308,117 @@
   background-color: #e70099;
   border-color: #e70099;
 }
+
+.text-lemonade {
+  color: #FFB800 !important;
+}
+
+.bg-lemonade {
+  background-color: #FFB800 !important;
+  width: -webkit-fit-content;
+  width: -moz-fit-content;
+  width: fit-content;
+}
+
+.bd-lemonade {
+  border: 2px solid #FFB800 !important;
+}
+
+.btn-lemonade {
+  color: #000;
+  background-color: #FFB800;
+  border-color: #FFB800;
+}
+
+.btn-lemonade:hover {
+  color: #ffffff;
+  background-color: #cc9300;
+  border-color: #cc9300;
+}
+
+.btn-outline-lemonade {
+  color: #FFB800;
+  border-color: #FFB800;
+}
+
+.btn-outline-lemonade:hover {
+  color: #ffffff;
+  background-color: #cc9300;
+  border-color: #cc9300;
+}
+
+.text-light-lemonade {
+  color: #ffe399 !important;
+}
+
+.bg-light-lemonade {
+  background-color: #ffe399 !important;
+  width: -webkit-fit-content;
+  width: -moz-fit-content;
+  width: fit-content;
+}
+
+.bd-light-lemonade {
+  border: 2px solid #ffe399 !important;
+}
+
+.btn-light-lemonade {
+  color: #000;
+  background-color: #ffe399;
+  border-color: #ffe399;
+}
+
+.btn-light-lemonade:hover {
+  color: #ffffff;
+  background-color: #ffd466;
+  border-color: #ffd466;
+}
+
+.btn-outline-light-lemonade {
+  color: #ffe399;
+  border-color: #ffe399;
+}
+
+.btn-outline-light-lemonade:hover {
+  color: #ffffff;
+  background-color: #ffd466;
+  border-color: #ffd466;
+}
+
+.text-dark-lemonade {
+  color: #b38100 !important;
+}
+
+.bg-dark-lemonade {
+  background-color: #b38100 !important;
+  width: -webkit-fit-content;
+  width: -moz-fit-content;
+  width: fit-content;
+}
+
+.bd-dark-lemonade {
+  border: 2px solid #b38100 !important;
+}
+
+.btn-dark-lemonade {
+  color: #000;
+  background-color: #b38100;
+  border-color: #b38100;
+}
+
+.btn-dark-lemonade:hover {
+  color: #ffffff;
+  background-color: #805c00;
+  border-color: #805c00;
+}
+
+.btn-outline-dark-lemonade {
+  color: #b38100;
+  border-color: #b38100;
+}
+
+.btn-outline-dark-lemonade:hover {
+  color: #ffffff;
+  background-color: #805c00;
+  border-color: #805c00;
+}
