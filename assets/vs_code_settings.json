@@ -1,0 +1,43 @@
+{
+    "tabnine.experimentalAutoImports": true,
+    "yaml.schemas": {
+        "file:///c%3A/Users/Sabbir%20Ahmed/.vscode/extensions/atlassian.atlascode-3.0.2/resources/schemas/pipelines-schema.json": "bitbucket-pipelines.yml"
+    },
+    "editor.fontSize": 18,
+    "enableTelemetry": false,
+    "terminal.integrated.enableMultiLinePasteWarning": false,
+    "explorer.confirmDragAndDrop": false,
+    "workbench.iconTheme": "vs-seti-folder",
+    "explorer.confirmDelete": false,
+    "liveServer.settings.donotShowInfoMsg": true,
+    "[python]": {
+        "editor.formatOnType": true
+    },
+    "blade.format.enable": true,
+    "bladeFormatter.format.noMultipleEmptyLines": true,
+    "bladeFormatter.misc.dontShowNewVersionMessage": true,
+    "window.zoomLevel": 1,
+    "editor.inlineSuggest.enabled": true,
+    "liveSassCompile.settings.forceBaseDirectory": "",
+    "liveSassCompile.settings.formats": [
+        {
+            "format": "expanded",
+            "extensionName": ".css",
+            "savePath": "./dist/css@1.0.0"
+        },
+        {
+            "extensionName": ".min.css",
+            "format": "compressed",
+            "savePath": "./dist/css@1.0.0"
+        }
+    ],
+    "liveSassCompile.settings.excludeList": [
+        "**/node_modules/**",
+        ".vscode/**"
+    ],
+    "liveSassCompile.settings.generateMap": false,
+    "liveSassCompile.settings.autoprefix": [
+        "> 1%",
+        "last 2 versions"
+    ]
+}
