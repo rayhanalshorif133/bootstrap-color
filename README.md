@@ -22,6 +22,8 @@
   Color is a free and open-source CSS which is extends Bootstrap colors.
 </p>
 
+
+
 ## Table of contents
 
 - [Table of contents](#table-of-contents)
@@ -33,7 +35,11 @@
 - [Bootstrap 5 Default Colors](#bootstrap-5-default-colors)
 - [Extended Colors](#extended-colors)
 - [Others Colors](#others-colors)
-- [Documentation](#documentation)
+
+<h1 align="center">
+  Documentation <br>
+  ------
+</h1>
 
 ## Quick-Start
 
@@ -222,9 +228,3 @@ We are providing many other classes as color property.
 ## Others Colors
 
 - ![#ffffff00](https://via.placeholder.com/15/ffffff00/ffffff00.png) `transparent` 
-
-## Documentation
-
-Head to the [`v4-dev` branch](https://github.com/twbs/bootstrap/tree/v4-dev) to
-view the readme, documentation, and source code for Bootstrap 4. ## Table of
-contents - [Bootstrap 5](#bootstrap-5) - [Table of contents](#table-of-contents)
