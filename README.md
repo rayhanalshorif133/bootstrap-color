@@ -17,9 +17,6 @@
   <a href="https://getbootstrap.com/docs/5.2/"
     ><strong>Explore Bootstrap docs »</strong></a
   >
-  <br />
-  <br />
-  Color is a free and open-source CSS which is extends Bootstrap colors.
 </p>
 
 
@@ -36,10 +33,17 @@
 - [Extended Colors](#extended-colors)
 - [Others Colors](#others-colors)
 
-<h1 align="center">
-  Documentation <br>
-  ------
-</h1>
+<h2 align="center">
+  Documentation ✍️
+ </h2>
+ <p align="center">
+  Color is a free and open-source CSS which is extends Bootstrap colors.
+    <br />
+  <a href="https://test-218.gitbook.io/bootstrap-color/"
+    ><strong>Explore Bootstrap Color docs »</strong></a
+  >
+</p>
+</h2>
 
 ## Quick-Start
 
