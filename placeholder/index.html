@@ -20,7 +20,8 @@
 
   const imgData = canvas.toDataURL("image/png");
 
-  document.body.innerHTML = `<img src="${imgData}" width="${size}" height="${size}" alt="color-box">`;
+  window.location.href = imgData;
+  // document.body.innerHTML = `<img src="${imgData}" width="${size}" height="${size}" alt="color-box">`; -->
 </script>
 </body>
 </html>
