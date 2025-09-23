@@ -6,30 +6,21 @@
 </head>
 <body>
 <script>
-  // URL format: /placeholder/color-box/{size}/{color}
-  const path = window.location.pathname.split('/');
-  const size = parseInt(path[path.length - 2]);   // example: 70
-  const color = path[path.length - 1];            // example: E0115F
+  const params = new URLSearchParams(window.location.search);
+  const size = parseInt(params.get("size")) || 12;
+  const color = params.get("color") || "000000";
 
-  // create canvas
-  const canvas = document.createElement('canvas');
+  const canvas = document.createElement("canvas");
   canvas.width = size;
   canvas.height = size;
 
-  const ctx = canvas.getContext('2d');
+  const ctx = canvas.getContext("2d");
   ctx.fillStyle = `#${color}`;
   ctx.fillRect(0, 0, size, size);
 
-  // return as image
-  const img = canvas.toDataURL('image/png');
+  const imgData = canvas.toDataURL("image/png");
 
-  // force browser to redirect to png data
-  const link = document.createElement('a');
-  link.href = img;
-  link.download = `color-box-${size}-${color}.png`;
-  link.click();
-
-  document.body.innerHTML = `<img src="${img}" alt="color-box"/>`;
+  document.body.innerHTML = `<img src="${imgData}" width="${size}" height="${size}" alt="color-box">`;
 </script>
 </body>
 </html>
