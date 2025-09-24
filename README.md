@@ -222,7 +222,7 @@ We are providing many other classes as color property.
 
 ## Bootstrap 5 Default Colors
 
-- ![#0d6efd](https://via.placeholder.com/15/0d6efd/0d6efd.png) `primary` - ![#868e96](https://via.placeholder.com/15/868e96/868e96.png) `secondary` - ![#5cb85c](https://via.placeholder.com/15/5cb85c/5cb85c.png) `success` - ![#ffffff](https://via.placeholder.com/15/ffffff/ffffff.png) `white` - ![#f8f9fa](https://via.placeholder.com/15/f8f9fa/f8f9fa.png) `light` - ![#b7bfc7](https://via.placeholder.com/15/b7bfc7/b7bfc7.png) `muted` - ![#343a40](https://via.placeholder.com/15/343a40/343a40.png) `dark` - ![#007bff](https://via.placeholder.com/15/007bff/007bff.png) `info` - ![#31b0d5](https://via.placeholder.com/15/31b0d5/31b0d5.png) `link` - ![#f0ad4e](https://via.placeholder.com/15/f0ad4e/f0ad4e.png) `warning` - ![#d9534f](https://via.placeholder.com/15/d9534f/d9534f.png) `danger`
+- <img src="./assets/colors/box/0d6efd.png" alt="0d6efd" width="auto" height="auto"/> `primary` - ![#868e96](https://via.placeholder.com/15/868e96/868e96.png) `secondary` - ![#5cb85c](https://via.placeholder.com/15/5cb85c/5cb85c.png) `success` - ![#ffffff](https://via.placeholder.com/15/ffffff/ffffff.png) `white` - ![#f8f9fa](https://via.placeholder.com/15/f8f9fa/f8f9fa.png) `light` - ![#b7bfc7](https://via.placeholder.com/15/b7bfc7/b7bfc7.png) `muted` - ![#343a40](https://via.placeholder.com/15/343a40/343a40.png) `dark` - ![#007bff](https://via.placeholder.com/15/007bff/007bff.png) `info` - ![#31b0d5](https://via.placeholder.com/15/31b0d5/31b0d5.png) `link` - ![#f0ad4e](https://via.placeholder.com/15/f0ad4e/f0ad4e.png) `warning` - ![#d9534f](https://via.placeholder.com/15/d9534f/d9534f.png) `danger`
 
 ## Extended Colors
 
