@@ -1,27 +1,39 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Color Box Generator</title>
+  <title>Color Placeholder</title>
 </head>
 <body>
 <script>
+  // URL query params
   const params = new URLSearchParams(window.location.search);
-  const size = parseInt(params.get("size")) || 12;
+  const size = parseInt(params.get("size")) || 15;
   const color = params.get("color") || "000000";
 
+  // Create canvas
   const canvas = document.createElement("canvas");
   canvas.width = size;
   canvas.height = size;
 
   const ctx = canvas.getContext("2d");
-  ctx.fillStyle = `#${color}`;
+  ctx.fillStyle = color.startsWith("#") ? color : "#" + color;
   ctx.fillRect(0, 0, size, size);
 
-  const imgData = canvas.toDataURL("image/png");
+  // Set PNG output
+  const pngData = canvas.toDataURL("image/png");
 
-  window.location.href = imgData;
-  // document.body.innerHTML = `<img src="${imgData}" width="${size}" height="${size}" alt="color-box">`; -->
+  // Replace page with PNG
+  const img = new Image();
+  img.src = pngData;
+  document.body.innerHTML = "";
+  document.body.appendChild(img);
+
+  // Also force browser to think it's a file
+  const link = document.createElement("link");
+  link.rel = "icon";
+  link.href = pngData;
+  document.head.appendChild(link);
 </script>
 </body>
 </html>
