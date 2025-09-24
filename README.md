@@ -222,17 +222,7 @@ We are providing many other classes as color property.
 
 ## Bootstrap 5 Default Colors
 
-- <img src="./assets/colors/box/0d6efd.png" alt="0d6efd" width="15" height="15"/> primary 
-- <img src="./assets/colors/box/868e96.png" alt="868e96" width="15" height="15"/> secondary 
-- <img src="./assets/colors/box/5cb85c.png" alt="5cb85c" width="15" height="15"/> success 
-- <img src="./assets/colors/box/ffffff.png" alt="ffffff" width="15" height="15"/> white 
-- <img src="./assets/colors/box/f8f9fa.png" alt="f8f9fa" width="15" height="15"/> light 
-- <img src="./assets/colors/box/b7bfc7.png" alt="b7bfc7" width="15" height="15"/> muted 
-- <img src="./assets/colors/box/343a40.png" alt="343a40" width="15" height="15"/> dark 
-- <img src="./assets/colors/box/007bff.png" alt="007bff" width="15" height="15"/> info 
-- <img src="./assets/colors/box/31b0d5.png" alt="31b0d5" width="15" height="15"/> link 
-- <img src="./assets/colors/box/f0ad4e.png" alt="f0ad4e" width="15" height="15"/> warning 
-- <img src="./assets/colors/box/d9534f.png" alt="d9534f" width="15" height="15"/> danger
+- <img src="./assets/colors/box/0d6efd.png" alt="0d6efd" width="15" height="15"/> `primary` <img src="./assets/colors/box/868e96.png" alt="868e96" width="15" height="15"/> `secondary` <img src="./assets/colors/box/5cb85c.png" alt="5cb85c" width="15" height="15"/> `success` <img src="./assets/colors/box/ffffff.png" alt="ffffff" width="15" height="15"/> `white` <img src="./assets/colors/box/f8f9fa.png" alt="f8f9fa" width="15" height="15"/> `light` <img src="./assets/colors/box/b7bfc7.png" alt="b7bfc7" width="15" height="15"/> `muted` <img src="./assets/colors/box/343a40.png" alt="343a40" width="15" height="15"/> `dark`<img src="./assets/colors/box/007bff.png" alt="007bff" width="15" height="15"/> `info`<img src="./assets/colors/box/31b0d5.png" alt="31b0d5" width="15" height="15"/> `link`<img src="./assets/colors/box/f0ad4e.png" alt="f0ad4e" width="15" height="15"/> `warning`<img src="./assets/colors/box/d9534f.png" alt="d9534f" width="15" height="15"/> `danger`
 
 
 ## Extended Colors
